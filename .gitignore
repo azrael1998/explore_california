@@ -1,0 +1,11 @@
+#demo example
+
+access_log
+
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+assets/photoshop/
+assets/videos/
+!assets/videos/tour_*.mp4
