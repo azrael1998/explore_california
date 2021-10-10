@@ -1,3 +1,0 @@
-name : database
-userame : root
-password : root
